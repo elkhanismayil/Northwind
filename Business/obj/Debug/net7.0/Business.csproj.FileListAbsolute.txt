@@ -1,0 +1,17 @@
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\Business.deps.json
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\Business.dll
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\Business.pdb
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\DataAccess.dll
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\Entities.dll
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\Entities.pdb
+D:\C#\ClassLibraryProjects\Business\bin\Debug\net7.0\DataAccess.pdb
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.csproj.AssemblyReference.cache
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.AssemblyInfoInputs.cache
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.AssemblyInfo.cs
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.csproj.CoreCompileInputs.cache
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.csproj.CopyComplete
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.dll
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\refint\Business.dll
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\Business.pdb
+D:\C#\ClassLibraryProjects\Business\obj\Debug\net7.0\ref\Business.dll

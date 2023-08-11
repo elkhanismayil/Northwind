@@ -1,0 +1,15 @@
+d:\C#\ClassLibraryProjects\DataAccess\bin\Debug\net7.0\DataAccess.deps.json
+D:\C#\ClassLibraryProjects\DataAccess\bin\Debug\net7.0\DataAccess.dll
+D:\C#\ClassLibraryProjects\DataAccess\bin\Debug\net7.0\DataAccess.pdb
+D:\C#\ClassLibraryProjects\DataAccess\bin\Debug\net7.0\Entities.dll
+D:\C#\ClassLibraryProjects\DataAccess\bin\Debug\net7.0\Entities.pdb
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.csproj.AssemblyReference.cache
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfoInputs.cache
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.AssemblyInfo.cs
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CoreCompileInputs.cache
+d:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.csproj.CopyComplete
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.dll
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\refint\DataAccess.dll
+D:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\DataAccess.pdb
+d:\C#\ClassLibraryProjects\DataAccess\obj\Debug\net7.0\ref\DataAccess.dll
