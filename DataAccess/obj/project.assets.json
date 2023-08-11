@@ -3200,11 +3200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
+      "projectPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\obj\\",
+      "outputPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3219,8 +3219,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
+            "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+              "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
             }
           }
         }

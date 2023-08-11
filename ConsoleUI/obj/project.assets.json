@@ -3239,11 +3239,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\ClassLibraryProjects\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "d:\\C#\\ClassLibraryProjects\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "D:\\C#\\ClassLibraryProjects\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "d:\\C#\\ClassLibraryProjects\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\ClassLibraryProjects\\ConsoleUI\\obj\\",
+      "outputPath": "d:\\C#\\ClassLibraryProjects\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3258,14 +3258,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\C#\\ClassLibraryProjects\\Business\\Business.csproj": {
-              "projectPath": "D:\\C#\\ClassLibraryProjects\\Business\\Business.csproj"
+            "d:\\C#\\ClassLibraryProjects\\Business\\Business.csproj": {
+              "projectPath": "d:\\C#\\ClassLibraryProjects\\Business\\Business.csproj"
             },
-            "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj"
+            "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj"
             },
-            "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
-              "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
+            "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+              "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
             }
           }
         }

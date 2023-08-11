@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {}
+    "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
+    "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
+        "projectPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\obj\\",
+        "outputPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
-                "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
+              "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+                "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+    "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
+        "projectUniqueName": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
+        "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\ClassLibraryProjects\\Entities\\obj\\",
+        "outputPath": "d:\\C#\\ClassLibraryProjects\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config"

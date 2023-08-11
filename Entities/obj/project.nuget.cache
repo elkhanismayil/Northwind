@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7qKCsJK1hJ8jA1oHuK+BBadByWJgWmmuXbVzSXlH1kdl5X8Jr0HxuY9eJ2N1Z/E82dhql95dE3EvyVUeJROxRg==",
+  "dgSpecHash": "yCNUFKGl22EwSlcmPCJEF8+Czcf9DKyOj4wIjyQnUMkMITrTcN103pEqA1Tm9nSC1iiCNLXPvKc+EviixDRXjA==",
   "success": true,
-  "projectFilePath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
+  "projectFilePath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
