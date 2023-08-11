@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {}
+    "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+    "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
+        "projectUniqueName": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
+        "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Elxan\\.nuget\\packages\\",
-        "outputPath": "d:\\C#\\ClassLibraryProjects\\Entities\\obj\\",
+        "outputPath": "D:\\C#\\ClassLibraryProjects\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Elxan\\AppData\\Roaming\\NuGet\\NuGet.Config"

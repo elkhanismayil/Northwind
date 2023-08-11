@@ -14,11 +14,13 @@ namespace ConsoleUI
         {
 
 
-            ProductManager productManager = new ProductManager(new EfProductDal());
+            ProductManager categoryManager = new ProductManager(new EfProductDal());
+            int number = 1;
 
-            foreach (var Product in productManager.GetBynitPrice(10,100))
+            foreach (var category in categoryManager.GetAll())
             {
-                Console.WriteLine(Product.ProductName);
+                Console.WriteLine(number + ". " + category.ProductName);
+                number++;
             }
         }
     }

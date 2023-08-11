@@ -5,6 +5,7 @@ using System.Linq.Expressions;
 using System.Threading.Tasks;
 using DataAccess.Abstract;
 using Entities.Concrete;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccess.Concrete.EntityFramework
 {
@@ -12,27 +13,50 @@ namespace DataAccess.Concrete.EntityFramework
     {
         public void Add(Category entity)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                var addedEntity = context.Entry(entity);
+                addedEntity.State = EntityState.Added;
+                context.SaveChanges();
+            }
         }
 
         public void Delete(Category entity)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                var addedEntity = context.Entry(entity);
+                addedEntity.State = EntityState.Added;
+                context.SaveChanges();
+            }
         }
 
         public Category Get(Expression<Func<Category, bool>> predicate)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                return context.Set<Category>().SingleOrDefault(predicate);
+            }
         }
 
         public List<Category> GetAll(Expression<Func<Category, bool>> predicate = null)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                return predicate == null 
+                ? context.Set<Category>().ToList() 
+                : context.Set<Category>().Where(predicate).ToList();
+            }
         }
 
         public void Update(Category entity)
         {
-            throw new NotImplementedException();
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                var addedEntity = context.Entry(entity);
+                addedEntity.State = EntityState.Modified;
+                context.SaveChanges();
+            }
         }
     }
 }

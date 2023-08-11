@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mc4cH6dAtCBwtkpxMYqTbjEmlEKJW83Y1tpk4VVKGdDJJX0qsBTaq6lPjJNYY4IvBUGRm+oK0FwVlVn+tAmPaw==",
+  "dgSpecHash": "cTMZBKRUKz6AoXz+zNeeQf1gdh3vyRH9B3hbq8Ork1V3QoB51Dv4jWzpAEn1khqi3ADMEYF15TeN8HPg4A5nag==",
   "success": true,
-  "projectFilePath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Elxan\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Elxan\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

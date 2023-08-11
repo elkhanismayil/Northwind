@@ -3238,11 +3238,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "d:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj"
+            "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "D:\\C#\\ClassLibraryProjects\\DataAccess\\DataAccess.csproj"
             },
-            "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
-              "projectPath": "d:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
+            "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj": {
+              "projectPath": "D:\\C#\\ClassLibraryProjects\\Entities\\Entities.csproj"
             }
           }
         }
