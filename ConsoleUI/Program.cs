@@ -16,7 +16,7 @@ namespace ConsoleUI
 
             ProductManager productManager = new ProductManager(new EfProductDal());
 
-            foreach (var Product in productManager.GetAll())
+            foreach (var Product in productManager.GetBynitPrice(10,100))
             {
                 Console.WriteLine(Product.ProductName);
             }
